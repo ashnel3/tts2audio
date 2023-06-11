@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tts2audio", "tts2audio.csproj", "{6F4B533A-97D8-44F4-8CB7-B15AB07A7EF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F4B533A-97D8-44F4-8CB7-B15AB07A7EF0}.Debug|x64.ActiveCfg = Debug|x64
+		{6F4B533A-97D8-44F4-8CB7-B15AB07A7EF0}.Debug|x64.Build.0 = Debug|x64
+		{6F4B533A-97D8-44F4-8CB7-B15AB07A7EF0}.Debug|x86.ActiveCfg = Debug|x86
+		{6F4B533A-97D8-44F4-8CB7-B15AB07A7EF0}.Debug|x86.Build.0 = Debug|x86
+		{6F4B533A-97D8-44F4-8CB7-B15AB07A7EF0}.Release|x64.ActiveCfg = Release|x64
+		{6F4B533A-97D8-44F4-8CB7-B15AB07A7EF0}.Release|x64.Build.0 = Release|x64
+		{6F4B533A-97D8-44F4-8CB7-B15AB07A7EF0}.Release|x86.ActiveCfg = Release|x86
+		{6F4B533A-97D8-44F4-8CB7-B15AB07A7EF0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75021042-9D41-46D9-8CDF-AF530F2DA02F}
+	EndGlobalSection
+EndGlobal

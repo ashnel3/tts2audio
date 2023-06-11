@@ -1,2 +1,2 @@
 # tts2audio
-Record WebSpeach voices easily
+Record text to speech easily
